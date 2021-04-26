@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="lay">
+    <file>file.jpg</file>
+    <file>camera.png</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
