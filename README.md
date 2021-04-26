@@ -11,7 +11,7 @@
 + UILib文件夹 处理Qt Designer生成的ui文件
 + data文件夹  系统的客户端界面文件，包括ui以及图片，测试程序等
 + processor文件夹   将YOLOv3以及Deep-Sort算法封装为类，便于系统调用
-+ main.py        软件系统启动程序
++ main.py&emsp;软件系统启动程序
 + main.py        软件系统启动脚本，包括激活虚拟环境，指定GPU序号以及启动程序
 
 #### 测试视频
