@@ -15,4 +15,4 @@
 + main.py   软件系统启动脚本，包括激活虚拟环境，指定GPU序号以及启动程序
 
 #### 测试视频
- [![Watch the video](https://github.com/DavidZh666/Violence_Detection/blob/master/extra/display.png)]()
+ [![Watch the video](https://github.com/codingmagic666/Pedestrian-detection-and-tracking/blob/main/extra/display.png)]()
