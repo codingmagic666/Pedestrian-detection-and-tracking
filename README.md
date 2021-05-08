@@ -23,5 +23,5 @@
 
 #### 测试视频
 
- [![Watch the video](https://github.com/codingmagic666/Pedestrian-detection-and-tracking/blob/main/extra/display.gif)]()
+ [![Watch the video](https://github.com/codingmagic666/Pedestrian-detection-and-tracking/blob/main/extra/display.gif)](https://github.com/codingmagic666/Pedestrian-detection-and-tracking/blob/main/extra/display.gif)
 
